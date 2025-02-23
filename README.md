@@ -37,14 +37,5 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
 4. Run the Python script:
    python main.py
 
-## Project Structure
-```bash
-
-├── US_Inaugural_Addresses/  # Folder containing text documents
-├── main.py                  # Main script for processing and retrieval
-├── README.md                # Project documentation
-├── requirements.txt         # Required dependencies
-<br> 
-
 ## Author
 Kintur Shah
