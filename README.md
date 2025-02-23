@@ -30,6 +30,7 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
   pip install pandas numpy nltk
 
 3. Download NLTK stopwords:
+   ```bash
   import nltk
   nltk.download('stopwords')
 
