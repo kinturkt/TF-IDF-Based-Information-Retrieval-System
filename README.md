@@ -1,5 +1,3 @@
-# TF-IDF-Based-Information-Retrieval-System
-
 # **TF-IDF Based Information Retrieval System**
 
 ## **Project Overview**
