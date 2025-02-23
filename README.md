@@ -26,13 +26,13 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
    cd your-repo-name
 
 2. Install dependencies:
-  ```bash
-  pip install pandas numpy nltk
+   ```bash
+   pip install pandas numpy nltk
 
 3. Download NLTK stopwords:
    ```bash
-  import nltk
-  nltk.download('stopwords')
+   import nltk
+   nltk.download('stopwords')
 
 4.Run the Python script:
   python main.py
