@@ -44,6 +44,7 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
 ├── main.py                  # Main script for processing and retrieval
 ├── README.md                # Project documentation
 ├── requirements.txt         # Required dependencies
+<br> 
 
-## Author: Kintur Shah
-[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
+## Author
+Kintur Shah
