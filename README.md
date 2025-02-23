@@ -34,8 +34,8 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
    import nltk
    nltk.download('stopwords')
 
-4.Run the Python script:
-  python main.py
+4. Run the Python script:
+   python main.py
 
 ## Project Structure
 ```bash
@@ -44,3 +44,6 @@ The dataset consists of **U.S. Presidential Inaugural Addresses**, stored as `.t
 ├── main.py                  # Main script for processing and retrieval
 ├── README.md                # Project documentation
 ├── requirements.txt         # Required dependencies
+
+## Author
+# Kintur Shah
